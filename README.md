@@ -1,4 +1,6 @@
 # 3D-Portfolio
+  <img src="https://github.com/ananyaa012/Bloomingbeauty-Flower-Website/blob/main/Bloomingbeauty/img/Screenshot%202024-07-17%20180749.png">
+</div>
 
 
 ## Table of Contents
