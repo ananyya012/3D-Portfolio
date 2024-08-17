@@ -2,7 +2,6 @@
   <img src="https://github.com/ananyaa012/3D-Portfolio/blob/main/3D-portfolio/Screenshot%202024-07-17%20183009.png">
 
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
